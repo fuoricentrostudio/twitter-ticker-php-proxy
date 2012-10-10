@@ -8,7 +8,11 @@
 // Set your return content type
 header('Content-type: application/json');
 
+<<<<<<< HEAD
 $users = array('vivido','vividolab','princi_vivido','follorep','jiratrack','roomshop','cmenzani','flaviomenzani','lderiu86','rcappello','alligatore','b4cc','pciccioni' );
+=======
+$users = array('fuoricentrostudio','brandomeniconi');
+>>>>>>> New import from source
 
 $tweet_array = array();
 $json_requests = array();
